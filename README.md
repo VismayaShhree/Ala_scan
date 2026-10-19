@@ -7,6 +7,7 @@ It takes one peptide sequence, swaps each residue for alanine one position at a 
 ![Example alanine-scan figure](ala_scan.png)
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/VismayaShhree/Ala_scan/blob/main/Alanin_sca.ipynb)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23483270.svg)](https://doi.org/10.5281/zenodo.23483270)
 
 ## Run it in your browser
 
@@ -39,11 +40,15 @@ Residues that are already alanine are skipped. The figure is also saved as `ala_
 
 If you use this notebook, please cite:
 
-> [Your article citation here]
+> If you use this notebook, please cite the archived code:
 
 and the archived code:
 
-> Vismaya (2026). Ala_scan: alanine-scan visualisation notebook. Zenodo. https://doi.org/10.5281/zenodo.XXXXXXX
+> Lokesh Dhanashree (2026). Ala_scan: alanine-scan visualisation notebook. (v1.0.0). Zenodo. https://doi.org/10.5281/zenodo.23483270
+
+The associated article is in preparation:
+
+> Lokesh, Dhanashree., et al. PAPER TITLE. In preparation.
 
 ## License
 
