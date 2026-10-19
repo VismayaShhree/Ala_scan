@@ -67,7 +67,7 @@ python ala_scan_app.py
 
 If you use this notebook, please cite the archived code:
 
-> LASTNAME, F. (2026). Ala_scan: alanine-scan visualisation notebook. Zenodo. https://doi.org/10.5281/zenodo.23483270
+> Lokesh, Dhanashree. (2026). Ala_scan: alanine-scan visualisation notebook. Zenodo. https://doi.org/10.5281/zenodo.23483270
 
 The associated article is in preparation.
 
