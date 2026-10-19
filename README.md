@@ -1,9 +1,11 @@
-[README.md](https://github.com/user-attachments/files/33681145/README_3.md)
+[README.md](https://github.com/user-attachments/files/33682231/README.md)
 # Ala_scan
 
 A Jupyter notebook that draws an alanine-scan figure for a short peptide.
 
 It takes one peptide sequence, swaps each residue for alanine one position at a time, and plots every variant as a row of coloured circles. Each circle is coloured by amino acid class (polar, non-polar, anionic, cationic), and the alanine substitutions are marked so you can see where each one sits.
+
+![Example alanine-scan figure](ala_scan.png)
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/VismayaShhree/Ala_scan/blob/main/Alanin_sca.ipynb)
 
