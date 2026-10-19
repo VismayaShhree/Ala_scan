@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/33682231/README.md)
 # Ala_scan
 
 A Jupyter notebook that draws an alanine-scan figure for a short peptide.
